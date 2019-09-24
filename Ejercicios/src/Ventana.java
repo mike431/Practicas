@@ -14,8 +14,8 @@ public class Ventana extends JFrame{
 	public Ventana() {
 		
 		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-		this.setSize(300,400);
-		this.setTitle("Ventana");
+		this.setSize(3500,500);
+		this.setTitle("Nueva ventana");
 		this.setVisible(true);
 		
 		
