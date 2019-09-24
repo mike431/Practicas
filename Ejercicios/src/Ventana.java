@@ -27,7 +27,7 @@ public class Ventana extends JFrame{
 
 	public static void main(String[] args) {
 				Ventana v = new Ventana();
-
+	System.out.println("Hola mundo");
 	}
 
 }
